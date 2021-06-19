@@ -1,0 +1,4 @@
+.venv
+pynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
